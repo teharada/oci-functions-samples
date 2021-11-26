@@ -1,4 +1,4 @@
-# Function that controls a Compute instance
+# コンピュート・インスタンスを制御するファンクション
 
 This function starts, stops and return the status of an OCI Compute instance.
 
